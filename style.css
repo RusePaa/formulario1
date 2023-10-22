@@ -1,0 +1,8 @@
+h1{
+    color: blue;
+}
+
+fieldset{
+    border: 2px solid blue;
+    width: 400px;
+}
